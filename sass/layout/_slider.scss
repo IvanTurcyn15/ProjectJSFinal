@@ -1,0 +1,10 @@
+.slider-wrap::after{
+    content: "";
+    display: block;
+    width: 536px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 1);
+    margin: 0 auto;
+}
+
+

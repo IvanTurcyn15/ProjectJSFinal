@@ -1,0 +1,27 @@
+.game-football-wrap::after{
+    content: "";
+    display: block;
+    width: 536px;
+    height: 1px;
+    background-color: rgba(0,0,0,1);
+    margin: 0 auto;
+    margin-top: 36px;
+}
+
+.football-game-field{
+    width: 720px;
+    height: 220px;
+    background-color: #4caf50;
+    border-radius: 20px;
+    border: 2px solid #000;
+    margin: 0 auto;
+}
+
+.ball{
+    width: 50px;
+    height: 50px;
+    background-image: url("../../images/ball.png");
+    background-size: cover;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+} 

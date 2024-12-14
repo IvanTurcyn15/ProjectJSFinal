@@ -1,0 +1,15 @@
+.footer-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 185px;
+}
+
+.contact-link {
+  font-family: Montserrat Alternates;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20.4px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+}/*# sourceMappingURL=footer.css.map */
